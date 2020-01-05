@@ -2,7 +2,7 @@
 
 # MIPS Computer Simulator with Two Level Branch Prediction
 
-# Step I. Implement the MIPS Computer Simulator [50 marks]
+# Step I. Implement the MIPS Computer Simulator 
 
 ## 1. Introduction
 
@@ -68,7 +68,7 @@ main() to see the execution results. A running example is shown below:
 ```
 Figure 1. Running example
 ```
-## 3. Bonus [extra 2 0 marks]
+## 3. Bonus 
 
 ```
 In the requirements above, MIPS operations are executed though C++ operations, and this is a
@@ -93,7 +93,7 @@ Submit an independent copy of the codes (create another folder) besides the norm
 ```
 Figure 2. MIPS Pipeline
 ```
-# Step II. Implement Two Branch Predictors [50 marks]
+# Step II. Implement Two Branch Predictors 
 
 ## 1. Introduction
 
@@ -198,9 +198,3 @@ finally translated into sequence of normal MIPS instructions in “machine 2 ”
 simulator, predictors work when beq and bne instructions are met, but they just make branch
 prediction decisions and update themselves without actually influence the branch executions.
 ```
-# Grading Scheme
-
-Your marks are mainly based on the running result. If the results are not correct, we will evaluate your
-codes, and you can get at most 60% of the full marks in this case.
-
-
