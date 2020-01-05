@@ -1,5 +1,3 @@
-# COMP 4611 Programming Assignment:
-
 # MIPS Computer Simulator with Two Level Branch Prediction
 
 # Step I. Implement the MIPS Computer Simulator 
