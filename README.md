@@ -118,7 +118,7 @@ The starting values for these components are all 0. To update the global history
 pattern history table entries, you should wait until the branch direction has been determined
 and update them based on the actual outcome of the branch.
 
-**Local Branch Predictor [25 marks].** The local predictor consists of the following components:
+**Local Branch Predictor.** The local predictor consists of the following components:
  10 local history registers.
  An 8 - bit branch history for each local history register based on the PC of the branch.
  A pattern history table containing 256 entries for each local history register, 10 tables in
